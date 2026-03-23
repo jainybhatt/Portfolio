@@ -13,6 +13,12 @@ I’m passionate about turning data into actionable insights that support better
 
 ## 🔍 Projects
 
+### Automated Support Ticket Classification & Response Generation using Generative AI
+Developed an end-to-end Generative AI application leveraging Large Language Models (LLMs) to automate support ticket processing workflows. 
+- The system classifies incoming customer tickets, generates contextual tags, assigns priority levels, estimates resolution time (ETA), and produces draft customer responses — all stored in a structured analytical dataset for business decision-making.
+- This solution enables organizations to improve customer experience, operational efficiency, and support team productivity by reducing manual triaging efforts and enabling data-driven prioritization.
+
+
 ### 🏠 [Real Estate Price Prediction](./1_RealEstate_Price_Prediction)
 Built an ML model using **Python (Scikit-learn, XGBoost)** to predict housing prices.  
 - Conducted EDA, feature engineering, and hyperparameter tuning.  
