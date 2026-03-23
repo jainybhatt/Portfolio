@@ -4,7 +4,7 @@
 Hi! I’m **Jainy Bhatt**, a Data Analyst specializing in **Machine Learning, Predictive Analytics, and Data Visualization**.  
 I’m passionate about turning data into actionable insights that support better decision-making.
 
-📍 **Based in:** Texas, USA  
+📍 **Based in:** San Francisco, CA  
 🎓 **Education:** M.S. in Applied Statistics and Data Science — University of Texas at Arlington  
 💼 **Experience:** Data Analyst at USDA | Teaching Assistant at UTA  
 📧 **Email:** jainybhatt@gmail.com | [LinkedIn](https://www.linkedin.com/in/jainybhatt/)
