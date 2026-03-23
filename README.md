@@ -18,6 +18,7 @@ Developed an end-to-end Generative AI application leveraging Large Language Mode
 - The system classifies incoming customer tickets, generates contextual tags, assigns priority levels, estimates resolution time (ETA), and produces draft customer responses — all stored in a structured analytical dataset for business decision-making.
 - This solution enables organizations to improve customer experience, operational efficiency, and support team productivity by reducing manual triaging efforts and enabling data-driven prioritization.
 
+**Skills:** Python, Hugging Face Transformers, Generative AI / LLM Prompt Engineering
 
 ### 🏠 [Real Estate Price Prediction](./1_RealEstate_Price_Prediction)
 Built an ML model using **Python (Scikit-learn, XGBoost)** to predict housing prices.  
