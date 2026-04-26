@@ -20,7 +20,7 @@ Developed an end-to-end Generative AI application leveraging Large Language Mode
 
 **Skills:** Python, Hugging Face Transformers, Generative AI / LLM Prompt Engineering
 
-### 🏠 [Real Estate Price Prediction](./1_RealEstate_Price_Prediction)
+### 🏠 [Real Estate Price Prediction]
 Built an ML model using **Python (Scikit-learn, XGBoost)** to predict housing prices.  
 - Conducted EDA, feature engineering, and hyperparameter tuning.  
 - Improved accuracy by 15% and visualized results with Tableau.
@@ -29,7 +29,7 @@ Built an ML model using **Python (Scikit-learn, XGBoost)** to predict housing pr
 
 ---
 
-### 🛴 [E-Scooter User Behavior Analysis](./2_Escooter_Gender_Analysis)
+### 🛴 [E-Scooter User Behavior Analysis]
 Analyzed survey data using **R** to assess gender-based behavioral differences.  
 - Applied Chi-square and Binomial tests.  
 - Created visualizations using Seaborn and ggplot2.
@@ -38,7 +38,7 @@ Analyzed survey data using **R** to assess gender-based behavioral differences.
 
 ---
 
-### 🗄️ [SQL Data Warehouse Project](./3_SQL_Data_Warehouse)
+### 🗄️ [SQL Data Warehouse Project]
 Designed a **data warehouse in Azure Studio** using Medallion Architecture.  
 - Built ETL pipelines for scalable data processing.  
 - Created star schemas and optimized analytical queries.
@@ -47,7 +47,7 @@ Designed a **data warehouse in Azure Studio** using Medallion Architecture.
 
 ---
 
-### 🌾 [Soil Property Forecasting (USDA Project)](./4_Forecasting_Soil_Properties)
+### 🌾 [Soil Property Forecasting (USDA Project)]
 Used **machine learning models** to map soil properties and improve hydrological forecasts.  
 - Engineered features and optimized model parameters.  
 - Presented insights to scientific and policy teams.
@@ -56,7 +56,7 @@ Used **machine learning models** to map soil properties and improve hydrological
 
 ---
 
-### 📊 [Power BI and Tableau Dashboards](./5_PowerBI_Tableau_Dashboards)
+### 📊 [Power BI and Tableau Dashboards]
 Developed interactive dashboards for diverse datasets.  
 - Automated data refresh and created insightful visual reports.  
 - Dashboards showcase key KPIs and patterns.
@@ -81,4 +81,4 @@ Developed interactive dashboards for diverse datasets.
 
 ---
 
-⭐ Feel free to explore the projects above — each one includes code, visuals, and insights.
+
