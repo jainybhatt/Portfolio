@@ -1,7 +1,7 @@
 # Portfolio
 # 🌟 Jainy Bhatt — Data Science / ML Engineer Portfolio
 
-Hi! I’m **Jainy Bhatt**, a Data Analyst specializing in **Machine Learning, Predictive Analytics, and Data Visualization**.  
+Hi! I’m **Jainy Bhatt**, a Data Scientist specializing in **Machine Learning, Predictive Analytics, and Data Visualization**.  
 I’m passionate about turning data into actionable insights that support better decision-making.
 
 📍 **Based in:** San Francisco, CA  
